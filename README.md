@@ -2,7 +2,7 @@
 
 I'm a Junior data analyst who recently finished 7-months online Bootcamp data analytics program from Tripleten. Proficient in data visualization, statistical analysis,
 and data mining methodologies.
-- 💙 I'm a chemist ...
+- 💙 I'm a data analyst and a chemist ...
 - 🌱 I’m currently learning data analis
 - 🔭 I Graduated from Tripleten or Practicum by Yandex as a Full Stack Data analyst online Bootcamp.
 - 🤔 I’m looking to advance my career.
