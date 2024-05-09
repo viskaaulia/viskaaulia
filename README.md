@@ -6,7 +6,7 @@ and data mining methodologies.
 - 🌱 I’m currently learning data analis
 - 🔭 I Graduated from Tripleten or Practicum by Yandex as a Full Stack Data analyst online Bootcamp.
 - 🤔 I’m looking to advance my career.
-- 📫 How to reach me :  in social networks or phone
+- 📫 How to reach me :  viskaaulia8@gmail.com and in social networks or phone
 - ⚡ Fun fact: i like sport
 
 <!---
