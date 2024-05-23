@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Viska Aulia and i'm a data analyst
 
-I'm a Junior data analyst who recently finished 7-months online Bootcamp data analytics program from Tripleten. Proficient in data visualization, statistical analysis,
+I'm a data analyst enthusiast who recently finished 7-months online Bootcamp data analytics program from Tripleten (ex-Practicum). Proficient in data visualization, statistical analysis,
 and data mining methodologies.
 - 💙 I'm a data analyst and a chemist ...
 - 🌱 I’m currently learning data analis
